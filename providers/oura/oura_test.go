@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/oura"
+	"github.com/qntfy/goth/providers/oura"
 	"github.com/stretchr/testify/assert"
 )
 
